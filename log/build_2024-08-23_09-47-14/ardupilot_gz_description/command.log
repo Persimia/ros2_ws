@@ -1,6 +1,0 @@
-Invoking command in '/home/skemp32/ros2_ws/build/ardupilot_gz_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/skemp32/ros2_ws/src/ardupilot_gz/ardupilot_gz_description -DCMAKE_INSTALL_PREFIX=/home/skemp32/ros2_ws/install/ardupilot_gz_description
-Invoked command in '/home/skemp32/ros2_ws/build/ardupilot_gz_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/skemp32/ros2_ws/src/ardupilot_gz/ardupilot_gz_description -DCMAKE_INSTALL_PREFIX=/home/skemp32/ros2_ws/install/ardupilot_gz_description
-Invoking command in '/home/skemp32/ros2_ws/build/ardupilot_gz_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/ardupilot_gz_description -- -j12 -l12
-Invoked command in '/home/skemp32/ros2_ws/build/ardupilot_gz_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/ardupilot_gz_description -- -j12 -l12
-Invoking command in '/home/skemp32/ros2_ws/build/ardupilot_gz_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/ardupilot_gz_description
-Invoked command in '/home/skemp32/ros2_ws/build/ardupilot_gz_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/ardupilot_gz_description

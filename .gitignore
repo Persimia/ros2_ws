@@ -293,3 +293,6 @@ codecov
 
 # VSCode
 .vscode
+
+log/
+logs/

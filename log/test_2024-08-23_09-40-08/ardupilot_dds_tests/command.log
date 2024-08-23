@@ -1,2 +1,0 @@
-Invoking command in '/home/skemp32/ros2_ws/src/ardupilot/Tools/ros2/ardupilot_dds_tests': PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m unittest -v
-Invoked command in '/home/skemp32/ros2_ws/src/ardupilot/Tools/ros2/ardupilot_dds_tests' returned '0': PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m unittest -v

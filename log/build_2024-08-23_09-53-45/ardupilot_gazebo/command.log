@@ -1,2 +1,0 @@
-Invoking command in '/home/skemp32/ros2_ws/build/ardupilot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/skemp32/ros2_ws/src/ardupilot_gazebo -DCMAKE_INSTALL_PREFIX=/home/skemp32/ros2_ws/install/ardupilot_gazebo
-Invoked command in '/home/skemp32/ros2_ws/build/ardupilot_gazebo' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/skemp32/ros2_ws/src/ardupilot_gazebo -DCMAKE_INSTALL_PREFIX=/home/skemp32/ros2_ws/install/ardupilot_gazebo
