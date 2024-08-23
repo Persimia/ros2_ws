@@ -1,0 +1,10 @@
+msg/GlobalPosition.idl
+msg/GlobalPosition.msg
+srv/ArmMotors.idl
+srv/ArmMotors.srv
+srv/ArmMotors_Request.msg
+srv/ArmMotors_Response.msg
+srv/ModeSwitch.idl
+srv/ModeSwitch.srv
+srv/ModeSwitch_Request.msg
+srv/ModeSwitch_Response.msg

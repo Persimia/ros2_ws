@@ -1,0 +1,95 @@
+[0.230s] Invoking command in '/home/skemp32/ros2_ws/build/ros_gz_bridge': AMENT_PREFIX_PATH=/home/skemp32/ros2_ws/install/ros_gz_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/skemp32/ros2_ws/install/ros_gz_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/skemp32/ros2_ws/install/ros_gz_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/skemp32/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/skemp32/ros2_ws/src/ros_gz/ros_gz_bridge -DCMAKE_INSTALL_PREFIX=/home/skemp32/ros2_ws/install/ros_gz_bridge
+[0.492s] -- The C compiler identification is GNU 11.4.0
+[1.654s] -- The CXX compiler identification is GNU 11.4.0
+[2.524s] -- Detecting C compiler ABI info
+[2.803s] -- Detecting C compiler ABI info - done
+[2.810s] -- Check for working C compiler: /usr/lib/ccache/cc - skipped
+[2.811s] -- Detecting C compile features
+[2.811s] -- Detecting C compile features - done
+[2.815s] -- Detecting CXX compiler ABI info
+[3.080s] -- Detecting CXX compiler ABI info - done
+[3.088s] -- Check for working CXX compiler: /usr/lib/ccache/c++ - skipped
+[3.088s] -- Detecting CXX compile features
+[3.088s] -- Detecting CXX compile features - done
+[3.091s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.452s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.540s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[3.885s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.890s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.900s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.914s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.932s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.985s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.988s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.781s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[9.528s] -- Found FastRTPS: /opt/ros/humble/include  
+[14.439s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[14.447s] -- Looking for pthread.h
+[14.680s] -- Looking for pthread.h - found
+[14.680s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[14.935s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[14.936s] -- Found Threads: TRUE  
+[14.983s] -- Found rclcpp_components: 16.0.10 (/opt/ros/humble/share/rclcpp_components/cmake)
+[15.011s] -- Found yaml_cpp_vendor: 8.0.2 (/opt/ros/humble/share/yaml_cpp_vendor/cmake)
+[15.016s] -- Looking for gz-transport13 -- found version 13.4.0
+[15.022s] -- Searching for dependencies of gz-transport13
+[17.946s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[19.976s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[19.981s] -- Checking for module 'libzmq >= 4'
+[19.993s] --   Found libzmq , version 4.3.4
+[20.025s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[20.105s] -- Checking for module 'uuid'
+[20.117s] --   Found uuid, version 2.37.2
+[20.148s] -- Found UUID: TRUE  
+[20.150s] -- Looking for gz-utils2 -- found version 2.2.0
+[20.151s] -- Searching for dependencies of gz-utils2
+[20.151s] -- Searching for <gz-utils2> component [cli]
+[20.154s] -- Looking for gz-utils2-cli -- found version 2.2.0
+[20.154s] -- Searching for dependencies of gz-utils2-cli
+[20.157s] -- Looking for gz-msgs10 -- found version 10.3.0
+[20.157s] -- Searching for dependencies of gz-msgs10
+[22.187s] -- Looking for gz-utils2 -- found version 2.2.0
+[22.189s] -- Looking for gz-math7 -- found version 7.5.0
+[22.189s] -- Searching for dependencies of gz-math7
+[22.190s] -- Looking for gz-utils2 -- found version 2.2.0
+[22.195s] -- Checking for module 'tinyxml2'
+[22.207s] --   Found tinyxml2, version 9.0.0
+[22.291s] -- Looking for gz-msgs10 -- found version 10.3.0
+[22.291s] -- Compiling against Gazebo Harmonic
+[22.291s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[22.303s] -- Found actuator_msgs: 0.0.1 (/opt/ros/humble/share/actuator_msgs/cmake)
+[22.315s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[22.328s] -- Found gps_msgs: 2.0.4 (/opt/ros/humble/share/gps_msgs/cmake)
+[22.345s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[22.345s] -- Found rcl_interfaces: 1.2.1 (/opt/ros/humble/share/rcl_interfaces/cmake)
+[22.362s] -- Found ros_gz_interfaces: 0.244.16 (/home/skemp32/ros2_ws/install/ros_gz_interfaces/share/ros_gz_interfaces/cmake)
+[22.362s] -- Found rosgraph_msgs: 1.2.1 (/opt/ros/humble/share/rosgraph_msgs/cmake)
+[22.379s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[22.379s] -- Found std_msgs: 4.2.4 (/opt/ros/humble/share/std_msgs/cmake)
+[22.423s] -- Found tf2_msgs: 0.25.7 (/opt/ros/humble/share/tf2_msgs/cmake)
+[22.440s] -- Found trajectory_msgs: 4.2.4 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[22.455s] -- Found vision_msgs: 4.1.1 (/opt/ros/humble/share/vision_msgs/cmake)
+[22.532s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[22.617s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[22.865s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[23.618s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[23.619s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[23.619s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[23.619s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[23.637s] -- Found PythonExtra: .so  
+[28.028s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[28.054s] -- Added test 'copyright' to check source files copyright and LICENSE
+[28.060s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[28.061s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/skemp32/ros2_ws/src/ros_gz/ros_gz_bridge/include>;$<BUILD_INTERFACE:/home/skemp32/ros2_ws/src/ros_gz/ros_gz_bridge/src>;/home/skemp32/ros2_ws/src/ros_gz/ros_gz_bridge/include;/home/skemp32/ros2_ws/src/ros_gz/ros_gz_bridge/test;/home/skemp32/ros2_ws/src/ros_gz/ros_gz_bridge/test/subscribers;/home/skemp32/ros2_ws/src/ros_gz/ros_gz_bridge/src
+[28.061s] -- Configured cppcheck exclude dirs and/or files: 
+[28.067s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[28.067s] -- Configured cpplint exclude dirs and/or files: 
+[28.068s] -- Added test 'flake8' to check Python code syntax and style conventions
+[28.069s] -- Added test 'lint_cmake' to check CMake code style
+[28.071s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[28.076s] -- Added test 'uncrustify' to check C / C++ code style
+[28.076s] -- Configured uncrustify additional arguments: 
+[28.078s] -- Added test 'xmllint' to check XML markup files
+[28.083s] -- Configuring done
+[28.217s] -- Generating done
+[28.220s] -- Build files have been written to: /home/skemp32/ros2_ws/build/ros_gz_bridge

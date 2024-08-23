@@ -1,0 +1,187 @@
+[0.057s] Invoking command in '/home/skemp32/ros2_ws/build/sdformat_test_files': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/skemp32/ros2_ws/src/sdformat_urdf/sdformat_test_files -DCMAKE_INSTALL_PREFIX=/home/skemp32/ros2_ws/install/sdformat_test_files
+[0.345s] -- The C compiler identification is GNU 11.4.0
+[1.878s] -- The CXX compiler identification is GNU 11.4.0
+[2.782s] -- Detecting C compiler ABI info
+[3.113s] -- Detecting C compiler ABI info - done
+[3.122s] -- Check for working C compiler: /usr/lib/ccache/cc - skipped
+[3.122s] -- Detecting C compile features
+[3.123s] -- Detecting C compile features - done
+[3.127s] -- Detecting CXX compiler ABI info
+[3.443s] -- Detecting CXX compiler ABI info - done
+[3.453s] -- Check for working CXX compiler: /usr/lib/ccache/c++ - skipped
+[3.454s] -- Detecting CXX compile features
+[3.454s] -- Detecting CXX compile features - done
+[3.460s] -- Configuring done
+[3.461s] -- Generating done
+[3.462s] -- Build files have been written to: /home/skemp32/ros2_ws/build/sdformat_test_files
+[3.468s] Invoked command in '/home/skemp32/ros2_ws/build/sdformat_test_files' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/skemp32/ros2_ws/src/sdformat_urdf/sdformat_test_files -DCMAKE_INSTALL_PREFIX=/home/skemp32/ros2_ws/install/sdformat_test_files
+[3.470s] Invoking command in '/home/skemp32/ros2_ws/build/sdformat_test_files': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/sdformat_test_files -- -j12 -l12
+[3.521s] Invoked command in '/home/skemp32/ros2_ws/build/sdformat_test_files' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/sdformat_test_files -- -j12 -l12
+[3.549s] Invoking command in '/home/skemp32/ros2_ws/build/sdformat_test_files': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/sdformat_test_files
+[3.556s] -- Install configuration: ""
+[3.556s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_box
+[3.558s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_box/model.config
+[3.558s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_box/geometry_box.sdf
+[3.558s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_cylinder
+[3.559s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_cylinder/model.config
+[3.559s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_cylinder/geometry_cylinder.sdf
+[3.560s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_heightmap
+[3.561s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_heightmap/model.config
+[3.561s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_heightmap/heightmap.png
+[3.561s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_heightmap/geometry_heightmap.sdf
+[3.561s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_collada
+[3.562s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_collada/torus.dae
+[3.563s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_collada/geometry_mesh_collada.sdf
+[3.564s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_collada/model.config
+[3.564s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_obj
+[3.564s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_obj/torus.mtl
+[3.565s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_obj/torus.obj
+[3.565s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_obj/geometry_mesh_obj.sdf
+[3.565s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_obj/model.config
+[3.565s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_scaled
+[3.566s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_scaled/geometry_mesh_scaled.sdf
+[3.566s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_scaled/torus.stl
+[3.566s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_scaled/model.config
+[3.566s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_stl
+[3.567s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_stl/torus.stl
+[3.567s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_stl/model.config
+[3.567s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_mesh_stl/geometry_mesh_stl.sdf
+[3.567s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_plane
+[3.568s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_plane/geometry_plane.sdf
+[3.569s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_plane/model.config
+[3.569s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_sphere
+[3.569s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_sphere/geometry_sphere.sdf
+[3.569s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/geometry_sphere/model.config
+[3.569s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_chain
+[3.570s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_chain/graph_chain.sdf
+[3.570s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_chain/model.config
+[3.570s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_chain_non_canonical_root
+[3.571s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_chain_non_canonical_root/model.config
+[3.572s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_chain_non_canonical_root/graph_chain_non_canonical_root.sdf
+[3.572s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_four_bar
+[3.573s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_four_bar/model.config
+[3.573s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_four_bar/graph_four_bar.sdf
+[3.573s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_loop
+[3.573s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_loop/graph_loop.sdf
+[3.573s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_loop/model.config
+[3.574s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_tree
+[3.574s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_tree/model.config
+[3.574s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_tree/graph_tree.sdf
+[3.575s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_tree_non_canonical_root
+[3.575s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_tree_non_canonical_root/graph_tree_non_canonical_root.sdf
+[3.575s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/graph_tree_non_canonical_root/model.config
+[3.575s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_ball
+[3.576s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_ball/joint_ball.sdf
+[3.576s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_ball/model.config
+[3.576s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_continuous
+[3.577s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_continuous/model.config
+[3.577s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_continuous/joint_continuous.sdf
+[3.577s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_fixed
+[3.578s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_fixed/joint_fixed.sdf
+[3.579s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_fixed/model.config
+[3.579s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_gearbox
+[3.579s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_gearbox/model.config
+[3.580s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_gearbox/joint_gearbox.sdf
+[3.580s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_prismatic
+[3.581s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_prismatic/joint_prismatic.sdf
+[3.581s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_prismatic/model.config
+[3.582s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_prismatic_no_axis
+[3.582s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_prismatic_no_axis/model.config
+[3.583s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_prismatic_no_axis/joint_prismatic_no_axis.sdf
+[3.583s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute
+[3.584s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute/model.config
+[3.584s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute/joint_revolute.sdf
+[3.584s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute2
+[3.584s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute2/model.config
+[3.584s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute2/joint_revolute2.sdf
+[3.585s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_axis
+[3.585s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_axis/joint_revolute_axis.sdf
+[3.585s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_axis/model.config
+[3.586s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_axis_in_frame
+[3.586s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_axis_in_frame/joint_revolute_axis_in_frame.sdf
+[3.586s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_axis_in_frame/model.config
+[3.587s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_default_limits
+[3.587s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_default_limits/joint_revolute_default_limits.sdf
+[3.588s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_default_limits/model.config
+[3.588s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_two_joints_two_links
+[3.588s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_two_joints_two_links/model.config
+[3.588s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_revolute_two_joints_two_links/joint_revolute_two_joints_two_links.sdf
+[3.588s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_screw
+[3.589s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_screw/model.config
+[3.589s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_screw/joint_screw.sdf
+[3.589s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_universal
+[3.589s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_universal/joint_universal.sdf
+[3.589s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/joint_universal/model.config
+[3.589s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_inertia
+[3.590s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_inertia/link_inertia.sdf
+[3.590s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_inertia/model.config
+[3.590s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_light_point
+[3.591s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_light_point/model.config
+[3.591s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_light_point/link_light_point.sdf
+[3.592s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_multiple_collisions
+[3.592s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_multiple_collisions/link_multiple_collisions.sdf
+[3.592s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_multiple_collisions/model.config
+[3.593s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_multiple_visuals
+[3.593s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_multiple_visuals/link_multiple_visuals.sdf
+[3.593s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_multiple_visuals/model.config
+[3.593s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_sensor_imu
+[3.593s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_sensor_imu/link_sensor_imu.sdf
+[3.594s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/link_sensor_imu/model.config
+[3.594s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/material_blinn_phong
+[3.594s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/material_blinn_phong/model.config
+[3.595s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/material_blinn_phong/material_blinn_phong.sdf
+[3.595s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/material_dynamic_lights
+[3.596s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/material_dynamic_lights/model.config
+[3.597s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/material_dynamic_lights/material_dynamic_lights.sdf
+[3.597s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/model_two_models
+[3.597s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/model_two_models/model_two_models.sdf
+[3.598s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/model_two_models/model.config
+[3.598s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/model_zero_models
+[3.599s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/model_zero_models/model_zero_models.sdf
+[3.599s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/model_zero_models/model.config
+[3.599s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_chain
+[3.600s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_chain/pose_chain.sdf
+[3.601s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_chain/model.config
+[3.601s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_collision
+[3.601s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_collision/pose_collision.sdf
+[3.602s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_collision/model.config
+[3.602s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_collision_in_frame
+[3.602s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_collision_in_frame/pose_collision_in_frame.sdf
+[3.603s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_collision_in_frame/model.config
+[3.603s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_inertial
+[3.603s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_inertial/pose_inertial.sdf
+[3.603s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_inertial/model.config
+[3.604s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_inertial_in_frame
+[3.605s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_inertial_in_frame/pose_inertial_in_frame.sdf
+[3.605s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_inertial_in_frame/model.config
+[3.605s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint
+[3.606s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint/pose_joint.sdf
+[3.606s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint/model.config
+[3.606s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint_all
+[3.607s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint_all/model.config
+[3.607s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint_all/pose_joint_all.sdf
+[3.607s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint_in_frame
+[3.608s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint_in_frame/pose_joint_in_frame.sdf
+[3.609s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_joint_in_frame/model.config
+[3.609s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link
+[3.609s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link/pose_link.sdf
+[3.609s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link/model.config
+[3.610s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link_all
+[3.610s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link_all/model.config
+[3.610s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link_all/pose_link_all.sdf
+[3.611s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link_in_frame
+[3.611s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link_in_frame/model.config
+[3.611s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_link_in_frame/pose_link_in_frame.sdf
+[3.612s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_model
+[3.612s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_model/pose_model.sdf
+[3.612s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_model/model.config
+[3.613s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_visual
+[3.613s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_visual/model.config
+[3.613s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_visual/pose_visual.sdf
+[3.613s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_visual_in_frame
+[3.614s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_visual_in_frame/model.config
+[3.614s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/models/pose_visual_in_frame/pose_visual_in_frame.sdf
+[3.615s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/cmake/sdformat_test_filesConfig.cmake
+[3.615s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/cmake/sdformat_test_filesConfigVersion.cmake
+[3.615s] -- Installing: /home/skemp32/ros2_ws/install/sdformat_test_files/share/sdformat_test_files/cmake/sdformat_test_files_functions.cmake
+[3.618s] Invoked command in '/home/skemp32/ros2_ws/build/sdformat_test_files' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/sdformat_test_files

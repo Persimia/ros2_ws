@@ -1,0 +1,7 @@
+[1.081s] Invoking command in '/home/skemp32/ros2_ws/src/ardupilot/Tools/ros2/ardupilot_dds_tests': PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m unittest -v
+[1.114s] 
+[1.115s] ----------------------------------------------------------------------
+[1.115s] Ran 0 tests in 0.000s
+[1.115s] 
+[1.115s] OK
+[1.121s] Invoked command in '/home/skemp32/ros2_ws/src/ardupilot/Tools/ros2/ardupilot_dds_tests' returned '0': PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m unittest -v

@@ -1,0 +1,48 @@
+[0.055s] Invoking command in '/home/skemp32/ros2_ws/build/ros_gz_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/ros_gz_sim -- -j12 -l12
+[0.143s] [ 10%] [32mBuilding CXX object CMakeFiles/ros_gz_sim.dir/src/Stopwatch.cpp.o[0m
+[0.144s] [ 20%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[0.158s] [ 30%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[0.183s] [ 40%] [32mBuilding CXX object CMakeFiles/create.dir/src/create.cpp.o[0m
+[1.176s] [ 50%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[1.218s] [ 50%] Built target gtest_main
+[1.506s] [ 60%] [32m[1mLinking CXX shared library libros_gz_sim.so[0m
+[1.924s] [ 60%] Built target ros_gz_sim
+[5.083s] [ 70%] [32m[1mLinking CXX static library libgtest.a[0m
+[5.667s] [ 70%] Built target gtest
+[5.905s] [ 80%] [32mBuilding CXX object CMakeFiles/test_stopwatch.dir/test/test_stopwatch.cpp.o[0m
+[23.437s] [ 90%] [32m[1mLinking CXX executable test_stopwatch[0m
+[24.752s] [ 90%] Built target test_stopwatch
+[29.763s] [100%] [32m[1mLinking CXX executable create[0m
+[31.384s] [100%] Built target create
+[31.463s] Invoked command in '/home/skemp32/ros2_ws/build/ros_gz_sim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/ros_gz_sim -- -j12 -l12
+[31.712s] Invoking command in '/home/skemp32/ros2_ws/build/ros_gz_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/ros_gz_sim
+[31.751s] -- Install configuration: ""
+[31.752s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/include/ros_gz_sim
+[31.753s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/include/ros_gz_sim/Stopwatch.hpp
+[31.755s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/launch/gz_sim.launch.py
+[31.756s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/lib/ros_gz_sim/create
+[31.799s] -- Set runtime path of "/home/skemp32/ros2_ws/install/ros_gz_sim/lib/ros_gz_sim/create" to ""
+[31.801s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/lib/libros_gz_sim.so
+[31.801s] -- Set runtime path of "/home/skemp32/ros2_ws/install/ros_gz_sim/lib/libros_gz_sim.so" to ""
+[31.802s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/lib/ros_gz_sim/test_stopwatch
+[31.806s] -- Set runtime path of "/home/skemp32/ros2_ws/install/ros_gz_sim/lib/ros_gz_sim/test_stopwatch" to ""
+[31.807s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ament_index/resource_index/package_run_dependencies/ros_gz_sim
+[31.808s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ament_index/resource_index/parent_prefix_path/ros_gz_sim
+[31.810s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/environment/ament_prefix_path.sh
+[31.810s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/environment/ament_prefix_path.dsv
+[31.810s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/environment/path.sh
+[31.810s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/environment/path.dsv
+[31.810s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/local_setup.bash
+[31.811s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/local_setup.sh
+[31.828s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/local_setup.zsh
+[31.829s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/local_setup.dsv
+[31.829s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/package.dsv
+[31.830s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ament_index/resource_index/packages/ros_gz_sim
+[31.830s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/cmake/ros_gz_simExport.cmake
+[31.831s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/cmake/ros_gz_simExport-noconfig.cmake
+[31.831s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/cmake/ament_cmake_export_targets-extras.cmake
+[31.831s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/cmake/ament_cmake_export_dependencies-extras.cmake
+[31.831s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/cmake/ros_gz_simConfig.cmake
+[31.832s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/cmake/ros_gz_simConfig-version.cmake
+[31.833s] -- Installing: /home/skemp32/ros2_ws/install/ros_gz_sim/share/ros_gz_sim/package.xml
+[31.851s] Invoked command in '/home/skemp32/ros2_ws/build/ros_gz_sim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/ros_gz_sim

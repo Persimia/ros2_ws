@@ -1,0 +1,30 @@
+[0.053s] Invoking command in '/home/skemp32/ros2_ws/build/ardupilot_gz_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/ardupilot_gz_gazebo -- -j12 -l12
+[0.226s] [ 50%] Built target FullSystem
+[0.236s] [100%] Built target BasicSystem
+[0.285s] Invoked command in '/home/skemp32/ros2_ws/build/ardupilot_gz_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/ardupilot_gz_gazebo -- -j12 -l12
+[0.359s] Invoking command in '/home/skemp32/ros2_ws/build/ardupilot_gz_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/ardupilot_gz_gazebo
+[0.381s] -- Install configuration: ""
+[0.381s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/lib/ardupilot_gz_gazebo/libBasicSystem.so
+[0.381s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/lib/ardupilot_gz_gazebo/libFullSystem.so
+[0.408s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/worlds
+[0.437s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/worlds/iris_runway.sdf
+[0.437s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/worlds/iris_maze.sdf
+[0.437s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/worlds/wildthumper_playpen.sdf
+[0.456s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/environment/ardupilot_gz_gazebo.dsv
+[0.456s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/environment/ardupilot_gz_gazebo.sh
+[0.522s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ament_index/resource_index/package_run_dependencies/ardupilot_gz_gazebo
+[0.550s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ament_index/resource_index/parent_prefix_path/ardupilot_gz_gazebo
+[0.550s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/environment/ament_prefix_path.sh
+[0.550s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/environment/ament_prefix_path.dsv
+[0.551s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/environment/path.sh
+[0.551s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/environment/path.dsv
+[0.551s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/local_setup.bash
+[0.551s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/local_setup.sh
+[0.551s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/local_setup.zsh
+[0.551s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/local_setup.dsv
+[0.552s] -- Installing: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/package.dsv
+[0.606s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ament_index/resource_index/packages/ardupilot_gz_gazebo
+[0.607s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/cmake/ardupilot_gz_gazeboConfig.cmake
+[0.607s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/cmake/ardupilot_gz_gazeboConfig-version.cmake
+[0.607s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gz_gazebo/share/ardupilot_gz_gazebo/package.xml
+[0.612s] Invoked command in '/home/skemp32/ros2_ws/build/ardupilot_gz_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/ardupilot_gz_gazebo
