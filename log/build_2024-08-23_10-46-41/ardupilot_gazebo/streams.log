@@ -1,0 +1,118 @@
+[0.055s] Invoking command in '/home/skemp32/ros2_ws/build/ardupilot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/skemp32/ros2_ws/install/ardupilot_dds_tests:/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/ardupilot_gazebo -- -j12 -l12
+[0.119s] [35m[1mConsolidate compiler generated dependencies of target ParachutePlugin[0m
+[0.120s] [35m[1mConsolidate compiler generated dependencies of target CameraZoomPlugin[0m
+[0.120s] [35m[1mConsolidate compiler generated dependencies of target ArduPilotPlugin[0m
+[0.121s] [35m[1mConsolidate compiler generated dependencies of target GstCameraPlugin[0m
+[0.163s] [ 20%] Built target CameraZoomPlugin
+[0.177s] [ 60%] Built target ArduPilotPlugin
+[0.188s] [ 80%] Built target ParachutePlugin
+[0.196s] [100%] Built target GstCameraPlugin
+[0.289s] Invoked command in '/home/skemp32/ros2_ws/build/ardupilot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/skemp32/ros2_ws/install/ardupilot_dds_tests:/opt/ros/humble /usr/bin/cmake --build /home/skemp32/ros2_ws/build/ardupilot_gazebo -- -j12 -l12
+[0.421s] Invoking command in '/home/skemp32/ros2_ws/build/ardupilot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/skemp32/ros2_ws/install/ardupilot_dds_tests:/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/ardupilot_gazebo
+[0.435s] -- Install configuration: ""
+[0.436s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/lib/ardupilot_gazebo/libArduPilotPlugin.so
+[0.437s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/lib/ardupilot_gazebo/libParachutePlugin.so
+[0.438s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/lib/ardupilot_gazebo/libCameraZoomPlugin.so
+[0.439s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/lib/ardupilot_gazebo/libGstCameraPlugin.so
+[0.441s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/config
+[0.442s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/config/gazebo-iris-gimbal.parm
+[0.443s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models
+[0.443s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr
+[0.444s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/materials
+[0.444s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/materials/textures
+[0.444s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/materials/textures/wing.png
+[0.444s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/thumbnails
+[0.445s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/thumbnails/1.png
+[0.445s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/thumbnails/3.png
+[0.445s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/thumbnails/5.png
+[0.445s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/thumbnails/4.png
+[0.446s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/thumbnails/2.png
+[0.446s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/meshes
+[0.446s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/meshes/parachute_small.dae
+[0.446s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/meshes/wing.dae
+[0.446s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/model.sdf
+[0.447s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr/model.config
+[0.447s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr_with_parachute
+[0.447s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr_with_parachute/model.sdf
+[0.447s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr_with_parachute/model.config
+[0.447s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/parachute_small
+[0.447s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/parachute_small/meshes
+[0.447s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/parachute_small/meshes/parachute_small.dae
+[0.448s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/parachute_small/model.sdf
+[0.448s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/parachute_small/model.config
+[0.448s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_ardupilot
+[0.448s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_ardupilot/model.sdf
+[0.448s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_ardupilot/model.config
+[0.448s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_standoffs
+[0.449s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_standoffs/meshes
+[0.449s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_standoffs/meshes/iris_prop_ccw.dae
+[0.449s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_standoffs/meshes/iris.dae
+[0.450s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_standoffs/meshes/iris_prop_cw.dae
+[0.450s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_standoffs/model.sdf
+[0.451s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_standoffs/model.config
+[0.451s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway
+[0.452s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials
+[0.459s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials/textures
+[0.459s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials/textures/Grass004_2K_Roughness.jpg
+[0.459s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials/textures/Grass004_2K_NormalGL.jpg
+[0.460s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials/textures/Grass004_2K_Color.jpg
+[0.460s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials/textures/Grass004_2K_AmbientOcclusion.jpg
+[0.460s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials/textures/Grass004_2K_Displacement.jpg
+[0.461s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials/textures/Grass004_2K_Color copy.jpg
+[0.461s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/materials/textures/runway.png
+[0.462s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/meshes
+[0.462s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/meshes/airfield.dae
+[0.462s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/model.sdf
+[0.463s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/runway/model.config
+[0.463s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_1d
+[0.463s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_1d/meshes
+[0.463s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_1d/meshes/base_main.dae
+[0.463s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_1d/meshes/tilt.dae
+[0.464s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_1d/meshes/base_arm.dae
+[0.465s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_1d/model.sdf
+[0.465s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_1d/model.config
+[0.465s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr_with_ardupilot
+[0.466s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr_with_ardupilot/model.sdf
+[0.466s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/zephyr_with_ardupilot/model.config
+[0.467s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_gimbal
+[0.467s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_gimbal/model.sdf
+[0.467s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/iris_with_gimbal/model.config
+[0.467s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_3d
+[0.467s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_3d/meshes
+[0.468s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_3d/meshes/camera_enclosure.dae
+[0.469s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_3d/meshes/roll_arm.dae
+[0.469s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_3d/meshes/yaw_arm.dae
+[0.469s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_3d/meshes/base_plate.dae
+[0.469s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_3d/model.sdf
+[0.469s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_3d/model.config
+[0.470s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_2d
+[0.470s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_2d/meshes
+[0.470s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_2d/meshes/base_main.dae
+[0.470s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_2d/meshes/tilt.dae
+[0.470s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_2d/meshes/base_arm.dae
+[0.471s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_2d/model.sdf
+[0.471s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/models/gimbal_small_2d/model.config
+[0.471s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/worlds
+[0.471s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/worlds/gimbal.sdf
+[0.472s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/worlds/iris_warehouse.sdf
+[0.472s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/worlds/iris_runway.sdf
+[0.472s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/worlds/zephyr_runway.sdf
+[0.472s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/worlds/zephyr_parachute.sdf
+[0.472s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/environment/ardupilot_gazebo.dsv
+[0.473s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/environment/ardupilot_gazebo.sh
+[0.478s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ament_index/resource_index/package_run_dependencies/ardupilot_gazebo
+[0.478s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ament_index/resource_index/parent_prefix_path/ardupilot_gazebo
+[0.478s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/environment/ament_prefix_path.sh
+[0.479s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/environment/ament_prefix_path.dsv
+[0.479s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/environment/path.sh
+[0.479s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/environment/path.dsv
+[0.479s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/local_setup.bash
+[0.479s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/local_setup.sh
+[0.480s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/local_setup.zsh
+[0.480s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/local_setup.dsv
+[0.480s] -- Installing: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/package.dsv
+[0.480s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ament_index/resource_index/packages/ardupilot_gazebo
+[0.481s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/cmake/ardupilot_gazeboConfig.cmake
+[0.481s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/cmake/ardupilot_gazeboConfig-version.cmake
+[0.481s] -- Up-to-date: /home/skemp32/ros2_ws/install/ardupilot_gazebo/share/ardupilot_gazebo/package.xml
+[0.483s] Invoked command in '/home/skemp32/ros2_ws/build/ardupilot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/skemp32/ros2_ws/install/ardupilot_dds_tests:/opt/ros/humble /usr/bin/cmake --install /home/skemp32/ros2_ws/build/ardupilot_gazebo
